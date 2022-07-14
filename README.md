@@ -1,4 +1,4 @@
-                      # Smart-Bore-System-IOT     --- Project by Aditya Mogili and Abhilash Poreddy
+                      # Smart-Bore-System-IOT     --- Project by  Abhilash Reddy Poreddy and Aditya Mogili and
                       
                       
          Smart Bore system is used for automating the bore well motor, this device doesn’t require any human assistance rather
